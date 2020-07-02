@@ -58,7 +58,7 @@
     nav: true,
     navText: ['<i class="ion-ios-arrow-back" aria-hidden="true"></i>', '<i class="ion-ios-arrow-forward" aria-hidden="true"></i>'],
     autoplay: true,
-    autoplayTimeout: 5500,
+    autoplayTimeout: 12000,
     autoplayHoverPause: true
   });
 
